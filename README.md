@@ -29,7 +29,8 @@ Currently the API allows to CREATE, READ, UPDATE and DELETE customer information
 1.1 Build & Run:
 
 	- Download the latest code from the master branch.
-	- Build & Run the `CustomerAPISol.sln` solution from your IDE (Visual Studio 2022)
+	- Select `API (src\Api\API)` Starup Project Option.
+	- Press Build & Run the `CustomerAPISol.sln` solution from your IDE (Visual Studio 2022)
 	
 	After runing the solution file a new browser window will open with Swagger API platform.
 
